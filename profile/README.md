@@ -1,6 +1,6 @@
 # Coconut Audio
 
-Free and open-source VST plugin development initiative built with C++, JUCE and CMake.
+Free and open-source VST plugin development initiative based in Kerala.
 
 ## Multiply and Replenish
 A neural vocal pitch editor that lets you create multiple instances of a vocal take and manipulate each differently to create realistic harmonies. Supports ARA.
